@@ -8,9 +8,17 @@ body{
     background-color: rgb(160, 201, 228);    
 }
 
+img.lado{
+    float: right;
+}
+
+iframe.video{
+    padding: 20px;
+}
+
 main{
     background-color: white;
-    width: 500px;
+    width: 600px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.445);
